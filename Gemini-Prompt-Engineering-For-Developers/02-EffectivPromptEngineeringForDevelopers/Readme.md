@@ -72,5 +72,16 @@ As a next step, Help me create the necessary code to perform CRUD operations on 
 Gemini Response
 
 
+Writing Business Logic Prompt
+
+![alt text](PE-DEV-06.png)
+
+Writing Business Logic Prompt
+
+As a next step, we must write business logic to handle the CRUD operations. This includes validating the input data , and ensuring that the data is consistent. Please provide me with the code for the business logic.
+
+Also, be careful about the input and output data types. We need to ensure that the business logic can be unit tested without the need of the database.
+
+
 
 
